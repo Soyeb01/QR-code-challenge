@@ -25,7 +25,7 @@ This challenge is made by using HTML and CSS. And it makes me use Flexbox by  wh
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://soyeb01-qr-code.netlify.app
 - Live Site URL: https://github.com/Soyeb01/QR-code-challenge.git
 
 ## My process
