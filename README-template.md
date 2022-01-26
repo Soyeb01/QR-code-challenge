@@ -26,7 +26,7 @@ This challenge is made by using HTML and CSS. And it makes me use Flexbox by  wh
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://github.com/Soyeb01/QR-code-challenge.git
 
 ## My process
 
@@ -58,5 +58,4 @@ I want to polish my CSS learning more.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Soyeb01](https://www.frontendmentor.io/profile/Soyeb01)
